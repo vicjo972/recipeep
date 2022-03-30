@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "vici",
+        "MONGO_PASSWORD": "Alvedon123",
+        "MONGO_DB": "recipeep"
+    }
+}
